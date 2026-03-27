@@ -46,8 +46,6 @@ hasCJKLanguage = true
 
 [params]
   defaultTheme = "auto"
-  [params.assets]
-    favicon = "favicon.ico"
   description = "刘星辰的个人主页"
   ShowReadingTime = true
   ShowShareButtons = false
